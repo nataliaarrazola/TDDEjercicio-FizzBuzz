@@ -78,9 +78,23 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9edcfbaf3555bf04ae2d1532f3c5a8c384132a8b",
     "commitName": "feat si ingresa 10 devuelve Buzz ya que es un multiplo de 5",
     "commitTimestamp": 1787839438273,
     "testId": 5
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1787839524812,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat si ingresa 15 devuelve FizzBuzz ya que es un multiplo de 5 y 3",
+    "commitTimestamp": 1787839582486,
+    "testId": 6
   }
 ]
