@@ -36,9 +36,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6a587ebfe80ad20da2dcc934a5f9619d68ff942a",
     "commitName": "feat: si ingresa 3 devuelve Fizz",
     "commitTimestamp": 1787838975684,
     "testId": 2
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1787839070825,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat si ingresa 6 devuelve Fizz ya que es un multiplo de 3",
+    "commitTimestamp": 1787839170570,
+    "testId": 3
   }
 ]

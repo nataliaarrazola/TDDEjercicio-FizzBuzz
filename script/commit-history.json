@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6a587ebfe80ad20da2dcc934a5f9619d68ff942a",
     "author": "Natalia",
     "commit": {
       "date": "2026-08-27T13:56:15.000Z",
       "message": "feat: si ingresa 3 devuelve Fizz",
-      "url": "https://github.com/nataliaarrazola/TDDEjercicio-FizzBuzz/commit/HEAD"
+      "url": "https://github.com/nataliaarrazola/TDDEjercicio-FizzBuzz/commit/6a587ebfe80ad20da2dcc934a5f9619d68ff942a"
     },
     "stats": {
       "total": 12,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Natalia",
+    "commit": {
+      "date": "2026-08-27T13:59:30.000Z",
+      "message": "feat si ingresa 6 devuelve Fizz ya que es un multiplo de 3",
+      "url": "https://github.com/nataliaarrazola/TDDEjercicio-FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
