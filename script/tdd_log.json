@@ -30,9 +30,15 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ddd387ae3e015c0bda5453cd5c82c96d88da2679",
     "commitName": "feat:devolver el mismo numero si no cumple las reglas con otros ejemplos",
     "commitTimestamp": 1787838663371,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: si ingresa 3 devuelve Fizz",
+    "commitTimestamp": 1787838975684,
+    "testId": 2
   }
 ]

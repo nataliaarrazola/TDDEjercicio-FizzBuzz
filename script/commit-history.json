@@ -19,12 +19,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "ddd387ae3e015c0bda5453cd5c82c96d88da2679",
     "author": "Natalia",
     "commit": {
       "date": "2026-08-27T13:51:03.000Z",
       "message": "feat:devolver el mismo numero si no cumple las reglas con otros ejemplos",
-      "url": "https://github.com/nataliaarrazola/TDDEjercicio-FizzBuzz/commit/HEAD"
+      "url": "https://github.com/nataliaarrazola/TDDEjercicio-FizzBuzz/commit/ddd387ae3e015c0bda5453cd5c82c96d88da2679"
     },
     "stats": {
       "total": 11,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Natalia",
+    "commit": {
+      "date": "2026-08-27T13:56:15.000Z",
+      "message": "feat: si ingresa 3 devuelve Fizz",
+      "url": "https://github.com/nataliaarrazola/TDDEjercicio-FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 8,
+      "deletions": 4,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
