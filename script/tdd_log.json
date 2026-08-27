@@ -92,9 +92,15 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3d6231a1786d13a0ae6573996319bcb7e25af234",
     "commitName": "feat si ingresa 15 devuelve FizzBuzz ya que es un multiplo de 5 y 3",
     "commitTimestamp": 1787839582486,
     "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: interfaz web conectada con fizzbuzz",
+    "commitTimestamp": 1787839854510,
+    "testId": 7
   }
 ]
