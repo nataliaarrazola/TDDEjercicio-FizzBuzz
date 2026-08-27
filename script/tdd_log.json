@@ -64,9 +64,23 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "affbee74f1fc84e625237e82915635050ff51338",
     "commitName": "feat si ingresa 5 devuelve Buzz",
     "commitTimestamp": 1787839351880,
     "testId": 4
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1787839406083,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat si ingresa 10 devuelve Buzz ya que es un multiplo de 5",
+    "commitTimestamp": 1787839438273,
+    "testId": 5
   }
 ]
