@@ -98,9 +98,15 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5d88b9f768bdb4f72298aed8d4e755cc927c9fd6",
     "commitName": "feat: interfaz web conectada con fizzbuzz",
     "commitTimestamp": 1787839854510,
     "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: correciones",
+    "commitTimestamp": 1787840449704,
+    "testId": 8
   }
 ]
