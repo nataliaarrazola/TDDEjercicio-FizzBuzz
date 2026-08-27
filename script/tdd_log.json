@@ -16,9 +16,23 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "966afe7d93e673ceb248c51555ad1557ebffbf95",
     "commitName": "feat:devolver el mismo numero si no cumple las reglas",
     "commitTimestamp": 1787838218293,
     "testId": 0
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1787838551683,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:devolver el mismo numero si no cumple las reglas con otros ejemplos",
+    "commitTimestamp": 1787838663371,
+    "testId": 1
   }
 ]

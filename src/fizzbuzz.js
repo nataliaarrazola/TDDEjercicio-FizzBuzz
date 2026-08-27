@@ -1,5 +1,6 @@
-function fizzbuzz() {
-  return 2;
+function fizzbuzz(numero) {
+  return numero.toString();
+
 }
 
 export default fizzbuzz;
