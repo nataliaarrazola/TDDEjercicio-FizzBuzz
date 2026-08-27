@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Natalia",
+    "commit": {
+      "date": "2026-08-27T13:43:36.000Z",
+      "message": "feat:devolver el mismo numero si no cumple las reglas",
+      "url": "https://github.com/nataliaarrazola/TDDEjercicio-FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  }
+]
